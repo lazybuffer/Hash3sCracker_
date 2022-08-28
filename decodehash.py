@@ -223,7 +223,7 @@ for password in wordlist:
       if hash_a == hash_b:
          
          #print("##################################################")
-         #print("\n  [ "+ bcolors.BOLD +"+"+ bcolors.ENDC+ " ] " + console.colorize("yellow", "key found_ : →"),"####################",password,"####################")
+         print("\n  [ "+ bcolors.BOLD +"+"+ bcolors.ENDC+ " ] " + console.colorize("yellow", "key found_ : →"),"####################",password,"#################### \n")
          #print("################################################## \n")
          sys.exit()
       else:
