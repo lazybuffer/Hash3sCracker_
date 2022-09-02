@@ -34,8 +34,9 @@
 # python3 decodehash.py [ define hash type ] [ your hashes ] # To crack ypur hashes pasword....and there you go.
 
 # How to install 
-# pip3 install -r requirements.txt
-# It taking progress
+# [ pip3 install -r requirements.txt ]
+
+# Taking pakage in progress
 # And it's ready to use it..
 
 # If appear any issues simply search on google
