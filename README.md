@@ -33,15 +33,23 @@
 </pre>
 
 ## How to use it??
-- python3 decodehash.py # To encode your textes and follow the program instractions there..?
-- python3 decodehash.py [ define hash type ] [ your hashes ] # To crack your hashes pasword..and there you go.
+## To encode your textes and follow the program instractions there..?
+```
+python3 decodehash.py
+
+## [ define hash type ] [ your hashes ] # To crack your hashes pasword..and there you go.
+```
+python3 decodehash.py
+
+
 
 ## How to install
 
 ```
 git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
 
-```HashesFinderDecoder_
+```
+HashesFinderDecoder_
 
 ```
 pip3 install -r requirements.txt
