@@ -41,7 +41,7 @@ python3 decodehash.py
 ## To crack your hashes pasword..and there you go.
 ```
 python3 decodehash.py [ define hash type ] [ your hashes ]
-
+```
 
 ## How to install
 
@@ -49,7 +49,7 @@ python3 decodehash.py [ define hash type ] [ your hashes ]
 git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
 
 ```
-HashesFinderDecoder_
+cd HashesFinderDecoder_
 ```
 
 ```
