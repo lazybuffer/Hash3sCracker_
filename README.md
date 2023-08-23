@@ -39,15 +39,7 @@
 ## How to install
 ```
 git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
-
 ```
 cd HashesFinderDecoder_
-
 ```
 pip3 install -r requirements.txt
-
-## hints if any issues apear
-<pre>
-Taking pakage in progress And it's ready to use it.
-If appear any issues simply search on google with error message.
-</pre>
