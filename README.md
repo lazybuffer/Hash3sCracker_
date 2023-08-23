@@ -37,12 +37,16 @@
 - python3 decodehash.py [ define hash type ] [ your hashes ] # To crack your hashes pasword..and there you go.
 
 ## How to install
+
 ```
 git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
+
 ```
 cd HashesFinderDecoder_
+
 ```
 pip3 install -r requirements.txt
+
 
 ```
 ## hints if any issues apear
