@@ -41,8 +41,7 @@
 ```
 git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
 
-```
-cd HashesFinderDecoder_
+```HashesFinderDecoder_
 
 ```
 pip3 install -r requirements.txt
