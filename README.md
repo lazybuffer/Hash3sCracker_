@@ -43,8 +43,7 @@
 
 ## hints for any issues
 <pre>
-Taking pakage in progress
-And it's ready to use it..
+Taking pakage in progress And it's ready to use it.
 
-If appear any issues simply search on google
+If appear any issues simply search on google with error message.
 </pre>
