@@ -33,7 +33,7 @@
 </pre>
 
 ## How to use it??
-# ( To encode your textes and follow the program instractions there..? )
+### ( To encode your textes and follow the program instractions there..? )
 ```
 python3 decodehash.py
 ```
@@ -43,7 +43,7 @@ python3 decodehash.py [ define hash type like (md5 or sha1 ) ] [ your hashe ]
 ```
 
 ## How to install
-# ( clone repo )
+### ( clone repo )
 ```
 git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
 ```
