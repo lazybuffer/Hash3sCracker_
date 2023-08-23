@@ -36,10 +36,13 @@
 - python3 decodehash.py # To encode your textes and follow the program instractions there..?
 - python3 decodehash.py [ define hash type ] [ your hashes ] # To crack your hashes pasword..and there you go.
 
-## How to install 
+## How to install
+```
 - git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
-- cd HashesFinderDecoder_ # [ folder navigate ]
-- pip3 install -r requirements.txt # [ this command will install all required packages ]
+```
+- cd HashesFinderDecoder_
+```
+- pip3 install -r requirements.txt
 
 ## hints for any issues
 <pre>
