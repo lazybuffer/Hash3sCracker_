@@ -1,5 +1,5 @@
 ## HashesFinderDecoder_ 
-- author: Abhijit boro
+- author: Abhijit boro ( 01010100010_ ) / ( h4ck3bhi )
 - instagram: https://www.instagram.com/01010100010_
 - facebook: https://www.facebook.com/abhijitboro438
 - twitter: https://www.twitter.com/@0101Whoami
