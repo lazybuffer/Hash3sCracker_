@@ -37,9 +37,9 @@
 ```
 python3 decodehash.py
 ```
-## To crack your hashes pasword..and there you go.
+## To crack your hash paswords..
 ```
-python3 decodehash.py [ define hash type ] [ your hashes ]
+python3 decodehash.py [ define hash type like (md5 or sha1 ) ] [ your hashe ]
 ```
 
 ## How to install
