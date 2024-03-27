@@ -61,11 +61,11 @@ except:
 
 
    print("  [ * ] USAGE: Just run python3 "+sys.argv[0]+" / To encode plain text and more..")
-   print("  [ * ] USAGE: python3 "+sys.argv[0]+" [ hash_type ] which is do u wanna check [ your hash ] and hit enter \n")
+   print("  [ * ] USAGE: python3 "+sys.argv[0]+" [ hash_type ] which is do you wanna check [ your hash ] and hit enter \n")
    
    print("  [ # ] hashes.. (sha3_256, sha3_224, md5, shake_256, sha224, blake2s, blake2b) \n")
    print("  [ readme ] You must can use those are mention there \n")
-   print("  [ readme ] Do you want to encode plain_text If Yes_! get space && hit Enter ")
+   print("  [ readme ] Do you want to encode plain text If Yes_! get space && hit Enter ")
    print("  [ readme ] Do you want to encode Digest hashes..? type ( DIGESTHASH )")
    print("  [ readme ] Do you want to identify hashes..? type ( IdentifyHASH )\n")
    print("  [ readme ] wordlist are major role in this software, without @ good wordlist and it is //shit// \n")
@@ -76,13 +76,13 @@ except:
       ask = input(bcolors.FAIL+"  Asking..? choose from readme"+bcolors.ENDC+"... ")
       if ask == " ":
          # your text to encode
-         plain_text = input("\n  plain_Text: ")
+         plain_text = input("\n  plain Text>_ ")
 
          # encode it to bytes using UTF-8 encoding
          text_to_encode = plain_text.encode()
 
          # hash with diff algorithms
-         hashtype = input("\n  hash_type: ")
+         hashtype = input("\n  hash type>_ ")
 
          # md5 algorithm
          if hashtype == "md5":
