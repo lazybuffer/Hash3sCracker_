@@ -46,7 +46,7 @@ except:
 
    print(bcolors.FAIL+"""
    author: Abhijit boro
-   instagram: https://www.instagram.com/01010100010_
+   instagram: https://www.instagram.com/_z3r0day_/
    twitter: https://www.twitter.com/@0101Whoami
                             
                  )                       
