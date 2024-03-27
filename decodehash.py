@@ -43,7 +43,8 @@ except:
    ███████╗███████╗███████╗███████╗███████╗███████╗███████╗███████╗███████╗███████╗
    ╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝
    """+bcolors.ENDC)
-
+   
+   
    print(bcolors.FAIL+"""
    author: Abhijit boro
    instagram: https://www.instagram.com/_z3r0day_/
@@ -58,6 +59,21 @@ except:
         \_/\_/|_||_\___/\__,_|_|_|_|  |_| 
                     HashesFinderDecoder_                 
    """+bcolors.ENDC)
+
+   #print(bcolors.FAIL+"""
+   #author: Abhijit boro
+   #instagram: https://www.instagram.com/_z3r0day_/
+   #twitter: https://www.twitter.com/@0101Whoami
+                            
+   #              )                       
+   #     (  (   ( /(         )    )    (   
+   #     )\))(  )\()) (   ( /(   (     )\  
+   #    ((_)()\((_)\  )\  )(_))  )\  '((_) 
+   #    _(()((_) |(_)((_)((_)_ _((_))  (_) 
+   #    \ V  V / ' \/ _ \/ _` | '  \() | | 
+   #     \_/\_/|_||_\___/\__,_|_|_|_|  |_| 
+   #                 HashesFinderDecoder_                 
+   #"""+bcolors.ENDC)
 
    # print(bcolors.FAIL+"""
       
