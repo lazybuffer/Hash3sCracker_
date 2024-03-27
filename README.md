@@ -81,7 +81,7 @@ git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
 ```
 ## navigate directory
 ```
-cd HashesFinderDecoder_
+cd Hash3sCracker_
 ```
 ## install all required packages
 ```
