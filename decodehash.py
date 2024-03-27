@@ -51,7 +51,7 @@ except:
    +
    str(os.system("cat banner/banner.txt"))
    +bcolors.BOLD+
-   """  Hash3sCracker_
+   """  [ Hash3sCracker_ ]
 
    Author: Abhijit boro
    Instagram: https://www.instagram.com/_z3r0day_/
