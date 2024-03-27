@@ -64,6 +64,11 @@
 
 </pre>
 
+## Description
+```
+Hash3sCracker_ will Cracking hashes identifying hash algorithms and Encoding your plain texts.
+```
+
 ## How to use it??
 ### ( To encode your textes and follow the program instractions there by Running decodehash.py file )
 ```
@@ -75,7 +80,7 @@ python3 decodehash.py [ define hash type like (md5 or sha1 ) ] [ your hashe ]
 ```
 
 ## How to install
-### ( clone repo )
+### ( clone repository )
 ```
 git clone https://github.com/lazybuffer/Hash3sCracker_.git
 ```
