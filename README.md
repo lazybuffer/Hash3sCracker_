@@ -87,8 +87,7 @@ cd HashesFinderDecoder_
 ```
 pip3 install -r requirements.txt
 ```
-## hints if any issues apear
+## incase if any error
 <pre>
-Taking pakage in progress And it's ready to use it.
 If appear any issues simply search on google with error message.
 </pre>
