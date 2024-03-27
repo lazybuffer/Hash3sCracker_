@@ -4,6 +4,7 @@
 # # python_scripts
 import hashlib
 import sys
+import os
 from pygments import console
 
 # manual text colored
@@ -45,46 +46,19 @@ except:
    """+bcolors.ENDC)
    
    
-   print(bcolors.FAIL+"""
-   author: Abhijit boro
-   instagram: https://www.instagram.com/_z3r0day_/
-   twitter: https://www.twitter.com/@0101Whoami
-                            
-                 )                       
-        (  (   ( /(         )    )    (   
-        )\))(  )\()) (   ( /(   (     )\  
-       ((_)()\((_)\  )\  )(_))  )\  '((_) 
-       _(()((_) |(_)((_)((_)_ _((_))  (_) 
-       \ V  V / ' \/ _ \/ _` | '  \() | | 
-        \_/\_/|_||_\___/\__,_|_|_|_|  |_| 
-                    HashesFinderDecoder_                 
+   print(bcolors.FAIL+"""   
+   """
+   +
+   str(os.system("cat banner/banner.txt"))
+   +bcolors.BOLD+
+   """  Hash3sCracker_
+
+   Author: Abhijit boro
+   Instagram: https://www.instagram.com/_z3r0day_/
+   Twitter: https://www.twitter.com/@0101Whoami
+   
    """+bcolors.ENDC)
 
-   #print(bcolors.FAIL+"""
-   #author: Abhijit boro
-   #instagram: https://www.instagram.com/_z3r0day_/
-   #twitter: https://www.twitter.com/@0101Whoami
-                            
-   #              )                       
-   #     (  (   ( /(         )    )    (   
-   #     )\))(  )\()) (   ( /(   (     )\  
-   #    ((_)()\((_)\  )\  )(_))  )\  '((_) 
-   #    _(()((_) |(_)((_)((_)_ _((_))  (_) 
-   #    \ V  V / ' \/ _ \/ _` | '  \() | | 
-   #     \_/\_/|_||_\___/\__,_|_|_|_|  |_| 
-   #                 HashesFinderDecoder_                 
-   #"""+bcolors.ENDC)
-
-   # print(bcolors.FAIL+"""
-      
-   #.------..------..------..------..------..------..------..------..------..------.
-   #|E.--. ||N.--. ||C.--. ||R.--. ||Y.--. ||P.--. ||T.--. ||I.--. ||O.--. ||N.--. |
-   #| (\/) || :(): || :/\: || :(): || (\/) || :/\: || :/\: || (\/) || :/\: || :(): |
-   #| :\/: || ()() || :\/: || ()() || :\/: || (__) || (__) || :\/: || :\/: || ()() |
-   #| '--'E|| '--'N|| '--'C|| '--'R|| '--'Y|| '--'P|| '--'T|| '--'I|| '--'O|| '--'N|
-   #`------'`------'`------'`------'`------'`------'`------'`------'`------'`------'
-   
-   #"""+bcolors.ENDC)
 
    print("  [ * ] USAGE: Just run python3 "+sys.argv[0]+" / To encode plain text and more..")
    print("  [ * ] USAGE: python3 "+sys.argv[0]+" [ hash_type ] which is do u wanna check [ your hash ] and hit enter \n")
