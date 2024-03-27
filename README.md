@@ -65,7 +65,7 @@
 </pre>
 
 ## How to use it??
-### ( To encode your textes and follow the program instractions there..? )
+### ( To encode your textes and follow the program instractions there by Running decodehash.py file )
 ```
 python3 decodehash.py
 ```
