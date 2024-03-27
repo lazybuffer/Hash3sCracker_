@@ -66,7 +66,7 @@
 
 ## Description
 <pre>
-Hash3sCracker_ will Cracking hashes identifying hash algorithms and Encoding your plain texts.
+Hash3sCracker_ will Crack hashes identifying hash algorithms and Encoding your plain texts.
 </pre>
 
 ## How to use it??
