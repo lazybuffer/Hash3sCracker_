@@ -77,7 +77,7 @@ python3 decodehash.py [ define hash type like (md5 or sha1 ) ] [ your hashe ]
 ## How to install
 ### ( clone repo )
 ```
-git clone https://github.com/lazybuffer/HashesFinderDecoder_.git
+git clone https://github.com/lazybuffer/Hash3sCracker_.git
 ```
 ## navigate directory
 ```
