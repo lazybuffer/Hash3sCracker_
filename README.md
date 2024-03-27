@@ -1,6 +1,6 @@
 ## HashesFinderDecoder_ 
-- author: Abhijit boro ( 01010100010_ ) / ( h4ck3bhi )
-- instagram: https://www.instagram.com/01010100010_
+- author: Abhijit boro ( _z3r0day_ ) /
+- instagram: https://www.instagram.com/_z3r0day_
 - facebook: https://www.facebook.com/abhijitboro438
 - twitter: https://www.twitter.com/@0101Whoami
 <!-- banner -->
