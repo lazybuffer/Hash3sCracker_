@@ -65,9 +65,9 @@
 </pre>
 
 ## Description
-```
+<pre>
 Hash3sCracker_ will Cracking hashes identifying hash algorithms and Encoding your plain texts.
-```
+</pre>
 
 ## How to use it??
 ### ( To encode your textes and follow the program instractions there by Running decodehash.py file )
