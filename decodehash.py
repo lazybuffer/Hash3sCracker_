@@ -65,9 +65,9 @@ except:
    
    print("  [ # ] hashes.. (sha3_256, sha3_224, md5, shake_256, sha224, blake2s, blake2b) \n")
    print("  [ readme ] You must can use those are mention there \n")
-   print("  [ readme ] Do you want to encode plain text If Yes_! get space && hit Enter ")
-   print("  [ readme ] Do you want to encode Digest hashes..? type ( DIGESTHASH )")
-   print("  [ readme ] Do you want to identify hashes..? type ( IdentifyHASH )\n")
+   print("  [ 1 ] Do you want to encode plain text If Yes_! get space && hit Enter ")
+   print("  [ 2 ] Do you want to encode Digest hashes..? type ( DIGESTHASH )")
+   print("  [ 3 ] Do you want to identify hashes..? type ( IdentifyHASH )\n")
    print("  [ readme ] wordlist are major role in this software, without @ good wordlist and it is //shit// \n")
 
    print("  [ * ] Or if you wan2 cancel press ( CTL+C )\n")
